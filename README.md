@@ -27,5 +27,4 @@ Data dikumpulkan melalui **scraping Twitter** menggunakan kata kunci yang berkai
 - Matplotlib untuk visualisasi
 - SNScrape / Tweepy (untuk scraping data Twitter)
 
-## 📂 Struktur Proyek
 
